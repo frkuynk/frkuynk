@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Uyanık</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-<h3 align="left">Connect with me:o.farukuyanik@gmail.com</h3>
+<h3 align="left">Connect with me: o.farukuyanik@gmail.com</h3>
 <p align="left">
 </p>
 
